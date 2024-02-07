@@ -1,6 +1,7 @@
 # KIKO3: SAP Fiori User Administration
 SAP Fiori app for unlocking & locking users, changing password and setting validity date
 
+![image](https://github.com/kmodric/KIKO3-SAP_Fiori_User_Administration/assets/6062110/600d02f2-eea9-4ac8-94b7-0d17a204e45e)
 
 
 Please check video on youtube for more information about Fiori application:
