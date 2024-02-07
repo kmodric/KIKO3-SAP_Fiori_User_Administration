@@ -12,16 +12,16 @@ UPDATE from:
 <br/>
 https://blogs.sap.com/2016/08/16/build-your-own-sap-fiori-app-in-the-cloud-2016-edition/
 <br/><br/>
-<h2>Prerequisit:</h2>
+<h2>Prerequisite:</h2>
 <br/>
 minimum: EHP 7 for SAP ERP 6.0 (any database)
 <p>If you are not sure it will work on your SAP system, please check that you have TCODE: /n/IWFND/MAINT_SERVICE
-<p>If you have the mention transaction in your SAP system then it will probably work.
-<p>Tested and working without any problem on:
+<p>If you have the mentioned transaction in your SAP system then it should work.
+<p>Has been tested and works without any problem on:
 <p>SAP S/4HANA 1909
 <p>SAP S/4HANA 2020
 <p>SAP S/4HANA 2022
-<p>If you tested on some other SAP system please let me know so I can update the list. Thanks!
+<p>If you will successfully test on some other SAP system, please let me know so I can update the list. Thanks!
 <br/><br/>
 <h2>Short instruction for installation:</h2>
 Time needed for installation and configuration is less than 1 hour, so please give it a try. 
