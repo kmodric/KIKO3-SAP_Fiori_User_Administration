@@ -24,8 +24,9 @@ minimum: EHP 7 for SAP ERP 6.0 (any database)
 <p>If you tested on some other SAP system please let me know so I can update the list. Thanks!
 <br/><br/>
 <h2>Short instruction for installation:</h2>
+Time needed for installation and configuration is less than 1 hour, so please give it a try. 
 
-Note: under /bin there is zip file:kiko3_tr.zip containing needed TR (Transport Requests)
+**Note:** under /bin there is zip file:kiko3_tr.zip containing needed TR (Transport Requests)
 <br/>
 1.	Import TR S4HK902314 (ZKIKO3 - Fiori app (user administration))
 2.	Import TR S4HK902315 (ZKIKO3 - add system alias)
