@@ -67,7 +67,9 @@ Note: under /bin there is zip file:kiko3_tr.zip containing needed TR (Transport 
 
 ![image](https://github.com/kmodric/KIKO3-SAP_Fiori_User_Administration/assets/6062110/ac497568-14b7-4420-848c-8baf8f8c3d9b)
 
-
+<br/>
+<h4>Disclaimer:</h4> I wanted to bring to your attention that I have identified some outdated Google Analytics code within the js file.
+<p>Should you have any questions or need any further clarification, please feel free to reach out to me via e-mail: kmodric(at)gmail.com
 
 
 
