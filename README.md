@@ -12,7 +12,18 @@ UPDATE from:
 <br/>
 https://blogs.sap.com/2016/08/16/build-your-own-sap-fiori-app-in-the-cloud-2016-edition/
 <br/><br/>
-Short instruction for installation:
+<h2>Prerequisit:</h2>
+<br/>
+minimum: EHP 7 for SAP ERP 6.0
+<p>If you are not sure it will work on your SAP system, please check that you have TCODE: /n/IWFND/MAINT_SERVICE
+<p>If you have the mention transaction in your SAP system then it will probably work.
+<p>Tested and working without any problem on:
+<p>SAP S/4HANA 1909
+<p>SAP S/4HANA 2020
+<p>SAP S/4HANA 2022
+<p>If you tested os some other SAP system please let me know so I can update the list. Thanks!
+<br/><br/>
+<h2>Short instruction for installation:</h2>
 <br/>
 Note: under /bin there is zip file:kiko3_tr.zip containing needed TR (Transport Requests)
 
@@ -34,7 +45,7 @@ Note: under /bin there is zip file:kiko3_tr.zip containing needed TR (Transport 
   URL is in format: http(s)://&lt;hostname:port&gt;/sap/bc/ui5_ui5/sap/zkiko31/index.html?sap-client=&lt;xxx&gt;
 <br/><br/>
 <br/><br/>
-  Installed app:
+ <h2> Installed app:</h2>
       <br/>
 1.	ZUNLOCKUSER
 <p>http(s)://&lt;hostname:port&gt;/sap/bc/ui5_ui5/sap/zunlockuser/index.html?sap-client=&lt;xxx&gt;
