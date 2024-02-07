@@ -21,7 +21,7 @@ minimum: EHP 7 for SAP ERP 6.0 (any database)
 <p>SAP S/4HANA 1909
 <p>SAP S/4HANA 2020
 <p>SAP S/4HANA 2022
-<p>If you tested os some other SAP system please let me know so I can update the list. Thanks!
+<p>If you tested on some other SAP system please let me know so I can update the list. Thanks!
 <br/><br/>
 <h2>Short instruction for installation:</h2>
 
