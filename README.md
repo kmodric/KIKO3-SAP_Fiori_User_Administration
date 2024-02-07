@@ -14,7 +14,7 @@ https://blogs.sap.com/2016/08/16/build-your-own-sap-fiori-app-in-the-cloud-2016-
 <br/><br/>
 <h2>Prerequisit:</h2>
 <br/>
-minimum: EHP 7 for SAP ERP 6.0
+minimum: EHP 7 for SAP ERP 6.0 (any database)
 <p>If you are not sure it will work on your SAP system, please check that you have TCODE: /n/IWFND/MAINT_SERVICE
 <p>If you have the mention transaction in your SAP system then it will probably work.
 <p>Tested and working without any problem on:
